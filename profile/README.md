@@ -108,6 +108,8 @@ FOFO is a reminder that the work has to matter on both sides: useful to the peop
 
 A partnership might begin with a new product—or with an everyday task that deserves a better way of working. If that sounds like you, we'd love to hear about it.
 
+**Website** · [fofo-studio.github.io](https://fofo-studio.github.io/)
+
 **Email** · [fofostudio.dev@gmail.com](mailto:fofostudio.dev@gmail.com)
 
 ---
